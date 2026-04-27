@@ -25,7 +25,7 @@
 
 🎓 **Data Enthusiast & Machine Learning Practitioner**  
 📍 Vietnam 🇻🇳  
-💼 **Data Science** | **Data Analyst** | **ML Engineer**
+💼 **-Data Scientist** | **Data Analyst** | **ML Engineer-**
 
 **Core Focus:**
 - 📈 Predictive Modeling & Time-Series Forecasting
