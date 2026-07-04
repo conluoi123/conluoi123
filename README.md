@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=70&lines=conluoi123;Data+Scientist+%7C+Analyst+%7C+ML+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=70&lines=conluoi123;AI+Engineer+%7C+ML+Engineer" alt="Typing SVG" />
   
-  <p><em>Transforming raw data into actionable intelligence and robust AI models</em></p>
+  <p><em>Building production-grade AI systems, Agentic workflows, and scalable ML architectures</em></p>
   
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:nguyenkimquoc260805123456@gmail.com">
     <img src="https://img.shields.io/badge/Open_to_Opportunities-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Open to Opportunities"/>
   </a>
 </div>
@@ -23,24 +23,24 @@
 <tr>
 <td width="50%">
 
-🎓 **Data Enthusiast & Machine Learning Practitioner**  
+🎓 **AI & Machine Learning Engineer**  
 📍 Vietnam 🇻🇳  
-💼 **-Data Scientist** | **Data Analyst** | **ML Engineer-**
+💼 **AI Engineer** | **ML Engineer**
 
 **Core Focus:**
-- 📈 Predictive Modeling & Time-Series Forecasting
-- 🔍 Exploratory Data Analysis (EDA) & Feature Engineering
-- 🤖 Machine Learning Pipeline Development
-- ⚙️ Data Architecture & Real-time Inference Systems
+- 🤖 **Agentic AI & LLMs:** LangGraph, RAG (Retrieval-Augmented Generation), Multi-Agent Systems
+- ⚙️ **MLOps & Pipeline:** Airflow, dbt, Model Serving (FastAPI)
+- 🧠 **Predictive Modeling:** XGBoost, Advanced Regression & Classification
+- 📐 **AI Architecture:** Real-time Inference, Vector Databases (pgvector)
 
 </td>
 <td width="50%">
 
 **What I Build:**
-- Advanced Regression & Classification Models
-- Automated Data Ingestion Pipelines
-- Business Intelligence & Analytics Dashboards
-- AI-driven Operational Frameworks
+- Production-grade AI systems & Copilots
+- Agentic Workflows for Complex Reasoning (e.g., EduMind, Legal Review)
+- Automated Data Ingestion & Transformation Pipelines
+- High-performance API backends for AI integration
 
 </td>
 </tr>
@@ -52,57 +52,71 @@
 
 <div align="center">
 
-### 📦 AI Inventory Diagnostic & Forecasting Framework
+### 🌍 [Global Development Intelligence Platform (GDIP)](https://github.com/conluoi123/Global-Development-Intelligence-Platform)
 
-<img src="https://img.shields.io/badge/Business_Intelligence-FF6B35?style=for-the-badge&labelColor=0D1117" alt="Analytics"/>
+<img src="https://img.shields.io/badge/AI_Platform-00D4FF?style=for-the-badge&labelColor=0D1117" alt="AI Platform"/>
 
-**Data-driven analytical framework addressing the "Inventory Paradox" (Stockout vs. Overstock risks)**
+**A production-grade AI system integrating multi-agents and data pipelines for macroeconomic analysis.**
 
 | Highlights | |
 |:---:|:---:|
-| 🎯 **Predictive Demand Forecasting** | 📊 **Dynamic Reorder Point Logic** |
-| 💸 **Cost-of-Error Analysis** | 📈 **Time-Series Analysis** |
+| 🤖 **LangGraph Multi-Agents** | 🔍 **pgvector RAG** |
+| ⚙️ **Airflow & dbt Pipelines** | 📈 **XGBoost Integration** |
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Statsmodels-3F4F75?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 
 ---
 
-### 🧠 REIS — Real-time AI Inference Architecture
+### 🧠 [EduMind - Multi-Modal E-Learning](https://github.com/conluoi123/multi_modal_e_learning)
 
-<img src="https://img.shields.io/badge/Data_Engineering-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Data"/>
+<img src="https://img.shields.io/badge/Agentic_AI-512BD4?style=for-the-badge&labelColor=0D1117" alt="Agentic AI"/>
 
-**High-performance system integrating message brokers and time-series storage for AI inference**
+**AI Learning Workspace featuring Agentic RAG, Quiz Self-Correction Loop, and Auto Slide Generator.**
 
 | Highlights | |
 |:---:|:---:|
-| ⚡ **Real-time Data Flow Processing** | 📡 **Message Broker Integration** |
-| 🗄️ **Time-Series Storage** | 🤖 **AI Model Serving** |
+| 📚 **Agentic RAG Workflows** | 🔄 **Quiz Self-Correction Loop** |
+| 📊 **Auto Slide Generation** | ⚡ **FastAPI Backend & React UI** |
 
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black" />
+<img src="https://img.shields.io/badge/LangGraph-00D4FF?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
 ---
 
-### 📊 Advanced Regression Modeling Pipeline
+### ☁️ [REIS - Realtime Environmental Intelligence System](https://github.com/conluoi123/REIS)
 
-<img src="https://img.shields.io/badge/Machine_Learning-512BD4?style=for-the-badge&labelColor=0D1117" alt="ML"/>
+<img src="https://img.shields.io/badge/Data_Engineering-FF6B35?style=for-the-badge&labelColor=0D1117" alt="Data Engineering"/>
 
-**Comprehensive ML pipeline from exploratory analysis to advanced model evaluation**
+**Realtime Environmental Intelligence System — Vietnam AQI Monitoring.** *(Forked from CodeDaoVietNam)*
 
 | Highlights | |
 |:---:|:---:|
-| 🛠️ **Robust Feature Engineering (IQR)** | 📉 **Ablation Studies & Analysis** |
-| 🔬 **WLS, GPR & KRR Implementation** | 🧹 **Data Leakage Prevention** |
+| ⚡ **Real-time Data Processing** | 🌍 **AQI Monitoring** |
+| 📡 **High-performance Ingestion** | 📊 **Time-Series Analysis** |
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Scipy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
+
+---
+
+### ⚖️ [Legal Contract Review Agent](https://github.com/conluoi123/Legal-Contract-Review-Agent) & 📈 [Financial Analytics Copilot](https://github.com/conluoi123/financial_analytics_copilot)
+
+<img src="https://img.shields.io/badge/AI_Agents-00D4FF?style=for-the-badge&labelColor=0D1117" alt="AI Agents"/>
+
+**Domain-specific AI Copilots and Agents for Legal and Financial workflows.**
+
+| Highlights | |
+|:---:|:---:|
+| 🤖 **Automated Contract Review** | 📊 **Financial Data Copilot** |
+| 🧠 **Domain-Specific LLM Use** | 📈 **Actionable Insights Generation** |
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-512BD4?style=flat-square&logoColor=white" />
 
 </div>
 
@@ -112,21 +126,23 @@
 
 <div align="center">
 
-**Data Science & Machine Learning**
+**AI, Machine Learning & MLOps**
 
-<img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,scikitlearn&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,scikitlearn,tensorflow&theme=dark" />
+<br>
+*(LangGraph, RAG, XGBoost, pgvector, Airflow, dbt)*
 
-**Data Engineering & Databases**
+**Backend & APIs**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,kafka,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker&theme=dark" />
 
-**Data Visualization & Analytics**
+**Frontend (For AI Apps)**
 
-<img src="https://skillicons.dev/icons?i=tableau,powerbi,grafana&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,ts&theme=dark" />
 
-**Tools & Environment**
+**Databases & Environment**
 
-<img src="https://skillicons.dev/icons?i=jupyter,vscode,git,github,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,github,git,vscode,linux&theme=dark" />
 
 </div>
 
@@ -160,7 +176,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0D1117)](https://www.kaggle.com/quoc113)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:nguyenkimquoc260805123456@gmail.com)
 
-**Open for:** Data Science Projects • ML Architecture • Data Analytics Roles
+**Open for:** AI Engineering Roles • ML Engineer Positions • Agentic AI Projects
 
 </div>
 
@@ -168,7 +184,7 @@
 
 <div align="center">
   
-*"In God we trust, all others must bring data."*
+*"In God we trust, all others must bring data (and good prompts)."*
 
 <br/>
 
